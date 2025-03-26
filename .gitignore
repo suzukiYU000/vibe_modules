@@ -5,3 +5,5 @@ vibe-env/
 output/
 *.mp4
 results
+*.tar
+*.pth.tar 
