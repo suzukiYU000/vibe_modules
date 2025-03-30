@@ -4,6 +4,9 @@ __pycache__/
 vibe-env/
 output/
 *.mp4
+*.MP4
+*.MOV
+*.mov
 results
 *.tar
 *.pth.tar 
